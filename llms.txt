@@ -1,0 +1,28 @@
+# Imagiclique
+
+> Imagiclique ist eine App für das Android-Handy, die aus eigenen Fotos und kurzen Texten Status-Bilder im Hochformat (9:16) für WhatsApp macht: mit Vorlagen, Collagen und Diashows als Video. Sprache: Deutsch.
+
+Wichtige Fakten:
+
+- **Läuft auf dem eigenen Handy:** als Android-App (Android 10 oder neuer, Datei zum Laden auf der Startseite) oder als installierbare Web-App in Chrome. Kein Konto, kein Upload der Fotos, keine Nutzungsstatistik.
+- **Vorlagen:** Foto + Text, Bericht, Collage (2 bis 12 Fotos), Zitat, Sofortbild, Postkarte, Weißrand, Filmstreifen, Vorher / Nachher und Diashow.
+- **Gruppen:** Fotos werden zu Gruppen zusammengefasst, jede Gruppe bekommt eine eigene Gestaltung und wird einzeln an WhatsApp geteilt.
+- **Bildbearbeitung:** Fotos drehen, spiegeln, zuschneiden, automatisch verbessern, Helligkeit, Kontrast und Farbe einstellen, Filter. Das eingelesene Foto bleibt erhalten.
+- **Diashow als Video** mit eigener Musik oder Sprachaufnahme.
+- **Stile:** Farben, Schrift und Schmuck für Anlässe wie Weihnachten, Geburtstag, Silvester, Ostern, Urlaub und Hochzeit; eigene Stile lassen sich als Link weitergeben.
+- **Teilen:** über das Teilen-Menü des Handys an WhatsApp, „Mein Status“.
+- **Schriftzug im Bild:** Unten rechts steht klein „Imagiclique“. Nach sieben Tagen mit geteiltem oder gespeichertem Status lässt er sich ausblenden.
+- **Kosten:** derzeit kostenlos.
+- **Stand:** in Entwicklung, Testphase (November 2026). Noch nicht im Play Store; die Android-App gibt es als Datei: https://imagiclique.de/imagiclique.apk
+- Imagiclique ist ein unabhängiges Projekt und steht in keiner Verbindung zu WhatsApp oder Meta.
+
+## Seiten
+
+- [Startseite](https://imagiclique.de/): Beispiele, Funktionen, Ablauf, Datenschutz, Weg zur App
+- [Neuigkeiten](https://imagiclique.de/neuigkeiten.html): was in jeder Fassung neu ist
+- [Datenschutz](https://imagiclique.de/datenschutz.html): Webseite und App
+
+## Verwandt
+
+- [Imagicosmos](https://imagicosmos.github.io/imagicosmos-webseite/): das Dach über Imagiclique und seinen Geschwistern
+- [Imagichron](https://imagichron.de/): persönliche Bilder-Zeitreisen (Windows-Programm) aus derselben Familie
